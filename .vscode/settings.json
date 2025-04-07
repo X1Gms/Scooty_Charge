@@ -1,0 +1,19 @@
+{
+  "files.associations": {
+    "gtk.h": "c",
+    "main.h": "c",
+    "gsk.h": "c",
+    "gskpath.h": "c",
+    "gsktypes.h": "c",
+    "graphene.h": "c",
+    "graphene-version.h": "c",
+    "graphene-macros.h": "c",
+    "graphene-types.h": "c",
+    "string.h": "c",
+    "libusb.h": "c",
+    "stdlib.h": "c",
+    "windows.h": "c",
+    "unistd.h": "c"
+  },
+  "C_Cpp.errorSquiggles": "enabled"
+}

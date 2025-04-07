@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/msys64/mingw64/include/gtk-4.0",
+                "C:/msys64/mingw64/include/glib-2.0",
+                "C:/msys64/mingw64/lib/glib-2.0/include",
+                "C:/msys64/mingw64/include/cairo",
+                "C:/msys64/mingw64/include/pango-1.0",
+                "C:/msys64/mingw64/include/harfbuzz",
+                "C:/msys64/mingw64/include/gdk-pixbuf-2.0",
+                "C:/msys64/mingw64/include/graphene-1.0"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "windows-gcc-x64",
+            "compilerPath": "C:/msys64/mingw64/bin/gcc.exe"
+        }
+    ],
+    "version": 4
+}

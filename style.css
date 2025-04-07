@@ -1,0 +1,262 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+#window {
+  background: #0c1615;
+}
+
+/*Start Sidebar*/
+
+#sidebar {
+  padding: 30px;
+  box-shadow: 0 0px 20px 0 #00000030;
+}
+
+#Scootylabel {
+  color: #fff;
+  font-size: 25px;
+  font-weight: 900;
+  font-style: italic;
+  margin-bottom: 10px;
+}
+
+#HR {
+  background: #12211f;
+  border-radius: 20px;
+}
+
+#Op_Home {
+  margin-top: 30px;
+}
+
+#Op_Logs {
+  margin-top: 40px;
+}
+
+#Op_Enable {
+  margin-left: 30px;
+  font-size: 20px;
+  font-weight: 800;
+  color: #71dacc;
+}
+
+#Op_Normal {
+  margin-left: 30px;
+  font-weight: 600;
+  font-size: 20px;
+  color: #71dacc;
+}
+
+#Exit_Btn {
+  border-radius: 20px;
+  background: #142624;
+  border: 0;
+  color: #71dacc;
+}
+
+#Exit_Btn_Text {
+  font-size: 18px;
+  font-weight: 800;
+  color: #71dacc;
+}
+
+#Copyright {
+  font-weight: 500;
+  font-size: 14px;
+  color: #366661;
+  margin-top: 10px;
+}
+
+/*End Sidebar*/
+
+/*Start Home*/
+
+#StatusContainer {
+  border-radius: 30px;
+  background: #0f1d1b;
+  padding: 30px;
+}
+
+#ScootersLbl {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.c_Battery {
+  background: #142624;
+  border-radius: 30px;
+  min-height: 170px;
+  min-width: 150px;
+  padding: 15px;
+}
+
+.c_Battery_lbl {
+  color: #fff;
+  font-size: 12px;
+}
+
+.c_Battery_caps {
+  border-radius: 10px;
+  min-height: 90px;
+  min-width: 65px;
+}
+
+.c_Battery_status {
+  color: #fff;
+  font-size: 12px;
+}
+
+#c_Battery_Locked {
+  color: #00f6c5;
+  font-size: 15px;
+  font-weight: 700;
+}
+
+#c_Battery_Unlocked {
+  color: #ff6060;
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.c_Battery_status_lbl {
+  font-size: 17px;
+  font-weight: 700;
+  color: #fff;
+}
+
+#Circle_Border {
+  border: solid 1px #00bd72;
+  border-radius: 100%;
+  box-shadow: 0px 4px 40px 0px #00f6c53f;
+}
+
+#Circle_Second_Border {
+  border: solid 10px #00f6c5;
+  background: #00f6c51f;
+  border-radius: 100%;
+}
+
+#N_Scooters {
+  font-size: 23px;
+  color: #fff;
+  font-weight: 700;
+}
+
+#scooters_lbl {
+  color: #cdcaca;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+#StatusCont {
+  background: #142624;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+#StatusContlbl {
+  font-size: 13px;
+  color: #fff;
+  margin-left: 10px;
+}
+
+#StatusContstats_charged {
+  font-size: 19px;
+  font-weight: 700;
+  color: #00f6c5;
+  margin-left: 20px;
+  margin-top: 2px;
+}
+
+#StatusContstats_charging {
+  font-size: 19px;
+  font-weight: 700;
+  color: #ffc260;
+  margin-left: 20px;
+  margin-top: 2px;
+}
+
+#StatusContstats_not_charged {
+  font-size: 19px;
+  font-weight: 700;
+  color: #ff6060;
+  margin-left: 20px;
+  margin-top: 2px;
+}
+
+/*End Home*/
+
+/*Start Logs*/
+
+#LogsBox {
+  background: #0f1d1b;
+  border-radius: 20px;
+  padding: 30px;
+}
+
+#LogsBox_Lbl {
+  color: #fff;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+#W_Logs {
+  background: #000;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  padding: 20px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+#Logs_Txt {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+/*End Logs*/
+
+/*Start USB*/
+
+#cUSB {
+  background: #0f1d1b;
+  border-radius: 20px;
+  padding: 20px;
+}
+
+#NDevices {
+  color: #00f6c5;
+  font-weight: 600;
+  font-size: 15px;
+}
+
+#Device {
+  margin-left: 20px;
+  background: #142624;
+  margin-top: 20px;
+  border-radius: 20px;
+}
+
+#NameDevice {
+  color: #00f6c5;
+  font-weight: 700;
+  font-size: 17px;
+}
+
+#Connected {
+  color: rgb(22, 179, 147);
+  font-weight: 600;
+  font-size: 13px;
+}
+
+#Disconnected {
+  color: #d45a5a;
+  font-weight: 600;
+  font-size: 13px;
+}
