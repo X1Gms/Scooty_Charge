@@ -71,4 +71,4 @@ The project also includes work with MIT App Inventor as part of its development.
 
 Developed by:
 - [Gonçalo Santos](https://github.com/X1Gms);
-- [Guilherme Banha](https://github.com/guilhermebanha);
+- [Guilherme Banha](https://github.com/guilhermebanha).
